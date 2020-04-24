@@ -1,3 +1,3 @@
 # MyPCQQChatBot-Backend
-## ***Under construction***  
+## ***Deprecated***  
 A chatbot backend for MYPCQQ
